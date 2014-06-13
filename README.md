@@ -15,3 +15,11 @@ and how it can be used to parse text files. Prepare to be impressed.
 I've had about two hours total to read up on Ruby, so this is not going
 to be pretty. Be prepared to phone the authorities to report me for
 egregious errors and a complete lack of skill.
+
+## Running these scripts (for reals!)
+
+On the command line:
++ ruby soccer.rb
++ ruby weather.rb
+
+Enjoy!
