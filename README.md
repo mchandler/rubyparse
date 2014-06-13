@@ -19,7 +19,6 @@ egregious errors and a complete lack of skill.
 ## Running these scripts (for reals!)
 
 On the command line:
-+ ruby soccer.rb
-+ ruby weather.rb
++ ruby parser.rb
 
 Enjoy!
